@@ -2,6 +2,7 @@
 
 🎓 **Computer Science + Business student at Washington University in St. Louis**
 🤖 **Aspiring Software Engineer with interests in AI, Machine Learning, & Software Development**
+
 🏈 NCAA Division III Student-Athlete | 💻 Builder | 📊 Sports & Technology Enthusiast
 
 I'm a sophomore in WashU's Business and Computer Science program with a passion for using technology to solve real-world problems. I enjoy building applications, working with data, and exploring how AI and machine learning can create better products and experiences.
