@@ -1,11 +1,11 @@
-# Hi, I'm Israel! 👋
+# Hi, I'm Izzy!
 
 🎓 **Computer Science + Business student at Washington University in St. Louis**
 🤖 **Aspiring Software Engineer with interests in AI, Machine Learning, & Software Development**
 
-🏈 NCAA Division III Student-Athlete | 💻 Builder | 📊 Sports & Technology Enthusiast
+🏈 NCAA Division III Student-Athlete
 
-I'm a sophomore in WashU's Business and Computer Science program with a passion for using technology to solve real-world problems. I enjoy building applications, working with data, and exploring how AI and machine learning can create better products and experiences.
+I'm a junior in WashU's Business and Computer Science program with a passion for using technology to solve real-world problems. I enjoy building applications, working with data, and exploring how AI and machine learning can create better products and experiences.
 
 Currently, I'm developing my skills through coursework, personal projects, and my AI & Machine Learning fellowship with Break Through Tech. I'm especially interested in **software engineering, machine learning, and AI**, and I'm looking for opportunities to contribute to meaningful technical projects while continuing to grow as an engineer.
 
